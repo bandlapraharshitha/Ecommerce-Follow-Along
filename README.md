@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+=======
 # **Ecommerce-Follow-Along**
 
 This repository is for the mentor-led project where we are building an e-commerce application using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The project focuses on learning real-world development concepts and gaining hands-on experience in creating a full-stack application.
@@ -26,3 +36,4 @@ This repository is for the mentor-led project where we are building an e-commerc
    - Authentication ensures secure access by verifying users before allowing them to log in or make purchases.
 
 ---
+>>>>>>> 833e7a9a5bbb76e2b811b60fb7132e5824599717
